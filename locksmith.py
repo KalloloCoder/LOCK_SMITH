@@ -10,7 +10,6 @@ init(autoreset=True)
 
 DB_FILE = "passwords.json"
 
-# efek loading
 def loading(pesan="Loading"):
     for i in range(3):
         sys.stdout.write(f"\r{Fore.YELLOW}{pesan}{'.' * (i+1)}")
@@ -18,7 +17,6 @@ def loading(pesan="Loading"):
         time.sleep(0.5)
     print()
 
-# load database dengan handling error
 def load_data():
     if os.path.exists(DB_FILE):
         with open(DB_FILE, "r") as f:
@@ -28,12 +26,10 @@ def load_data():
                 return {}  # kalau file kosong / rusak
     return {}
 
-# simpan database
 def save_data(data):
     with open(DB_FILE, "w") as f:
         json.dump(data, f, indent=4)
 
-# tambah akun baru
 def tambah_akun(data):
     loading("Menyimpan akun")
     akun = input(Fore.YELLOW + "Masukkan nama akun (misal: Gmail, IG, dll): ")
@@ -44,7 +40,6 @@ def tambah_akun(data):
     save_data(data)
     print(Fore.GREEN + f"Akun '{akun}' berhasil disimpan!\n")
 
-# lihat semua akun
 def lihat_semua(data):
     loading("Mengambil data akun")
     if not data:
@@ -55,7 +50,6 @@ def lihat_semua(data):
             print(Fore.YELLOW + f"{akun} -> Username: {info['username']} | Password: {info['password']}")
         print()
 
-# cari akun tertentu
 def cari_akun(data):
     target = input(Fore.YELLOW + "Masukkan nama akun yang dicari: ")
     loading("Mencari akun")
@@ -65,7 +59,6 @@ def cari_akun(data):
     else:
         print(Fore.RED + "Akun tidak ditemukan.\n")
 
-# generate password kuat
 def generate_passwords(keyword, jumlah=100, panjang=12):
     saran = []
     karakter = string.ascii_letters + string.digits + string.punctuation
@@ -85,13 +78,12 @@ def fitur_generate():
         print(Fore.YELLOW + f"{i}. {pwd}")
     print()
 
-# main program
 def main():
     data = load_data()
 
     while True:
         print(Fore.GREEN + "===================================")
-        print(Fore.YELLOW + "          LOCK SMITH CLI             ")
+        print(Fore.YELLOW + "          LOCK SMITH CLI          ")
         print(Fore.GREEN + "   Made by: KalloloCoder  -  v1.0  ")
         print(Fore.GREEN + "===================================")
         print(Fore.YELLOW + "1. Tambah akun baru")
