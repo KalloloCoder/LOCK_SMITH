@@ -1,11 +1,19 @@
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![License](https://img.shields.io/github/license/KalloloCoder/LOCK_SMITH)
-![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
-![GitHub stars](https://img.shields.io/github/stars/KalloloCoder/LOCK_SMITH?style=social)
-![GitHub forks](https://img.shields.io/github/forks/KalloloCoder/LOCK_SMITH?style=social)
-![GitHub issues](https://img.shields.io/github/issues/KalloloCoder/LOCK_SMITH)
-[![Author](https://img.shields.io/badge/Author-KalloloCoder-blue)](https://github.com/KalloloCoder)
+<p align="center">
+  <img src="assets/logo.png" alt="LOCK_SMITH Logo" width="150"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue" />
+  <img src="https://img.shields.io/github/license/KalloloCoder/LOCK_SMITH" />
+  <img src="https://img.shields.io/badge/Maintained-Yes-green" />
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen" />
+  <img src="https://img.shields.io/github/stars/KalloloCoder/LOCK_SMITH?style=social" />
+  <img src="https://img.shields.io/github/forks/KalloloCoder/LOCK_SMITH?style=social" />
+  <img src="https://img.shields.io/github/issues/KalloloCoder/LOCK_SMITH" />
+  <a href="https://github.com/KalloloCoder">
+    <img src="https://img.shields.io/badge/Author-KalloloCoder-blue" />
+  </a>
+</p>
 # LOCK_SMITH
 LOCK_SMITH adalah aplikasi Password Manager berbasis CLI (Command Line Interface) yang ditulis dengan Python.
 Aplikasi ini membantu kamu menyimpan akun, mencari akun, serta membuat 100 password kuat otomatis dengan kombinasi acak.
