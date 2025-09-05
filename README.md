@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue" />
+  <img src="https://img.shields.io/github/v/release/KalloloCoder/LOCK_SMITH?color=blue&label=version" />
   <img src="https://img.shields.io/github/license/KalloloCoder/LOCK_SMITH" />
   <img src="https://img.shields.io/badge/Maintained-Yes-green" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen" />
