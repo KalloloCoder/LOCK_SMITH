@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/Author-KalloloCoder-blue" />
   </a>
 </p>
+
 # LOCK_SMITH
 LOCK_SMITH adalah aplikasi Password Manager berbasis CLI (Command Line Interface) yang ditulis dengan Python.
 Aplikasi ini membantu kamu menyimpan akun, mencari akun, serta membuat 100 password kuat otomatis dengan kombinasi acak.
@@ -64,7 +65,7 @@ python locksmith.py
 
 ### 2. Akan muncul menu:
 
-![Tampilan CLI](picture.png)
+![Tampilan CLI](assets/picture.png)
 
 ---
 
