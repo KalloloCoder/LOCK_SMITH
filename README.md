@@ -74,8 +74,9 @@ python locksmith.py
 ```
 LOCK_SMITH/
 └── .github/workflows/
+   ├── python-app.yml      # Work flow 
    └── assets/
-      ├── picture.png      #Gambar Screenshot
+      ├── picture.png      # Gambar Screenshot
       ├── LICENSE          # Lisensi
       ├── README.md        # Dokumentasi
       ├── locksmith.py     # Main program
