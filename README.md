@@ -56,10 +56,10 @@ python locksmith.py
 ```
 LOCK_SMITH/
 │
-├── LICENSE          # Main program
-├── README.md        # Database akun
-├── locksmith.py     # Dokumentasi
-├── passwords.json   # Lisensi
+├── LICENSE          # Lisensi
+├── README.md        # Dokumentasi
+├── locksmith.py     # Main program
+├── passwords.json   # Database akun
 └── picture.png      #Gambar Screenshot
 ```
 
