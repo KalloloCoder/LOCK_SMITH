@@ -76,7 +76,7 @@ LOCK_SMITH/
 └── .github/workflows/
    ├── python-app.yml      # Work flow 
    └── assets/
-      ├── logo.png         #Gambar Logo
+      ├── logo.png         # Gambar Logo
       ├── picture.png      # Gambar Screenshot
       ├── LICENSE          # Lisensi
       ├── README.md        # Dokumentasi
