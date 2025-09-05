@@ -1,3 +1,11 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![License](https://img.shields.io/github/license/KalloloCoder/LOCK_SMITH)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-green)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+![GitHub stars](https://img.shields.io/github/stars/KalloloCoder/LOCK_SMITH?style=social)
+![GitHub forks](https://img.shields.io/github/forks/KalloloCoder/LOCK_SMITH?style=social)
+![GitHub issues](https://img.shields.io/github/issues/KalloloCoder/LOCK_SMITH)
+[![Author](https://img.shields.io/badge/Author-KalloloCoder-blue)](https://github.com/KalloloCoder)
 # LOCK_SMITH
 LOCK_SMITH adalah aplikasi Password Manager berbasis CLI (Command Line Interface) yang ditulis dengan Python.
 Aplikasi ini membantu kamu menyimpan akun, mencari akun, serta membuat 100 password kuat otomatis dengan kombinasi acak.
