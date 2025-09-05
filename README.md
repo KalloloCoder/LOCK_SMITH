@@ -51,7 +51,7 @@ venv\Scripts\activate     # Windows
 ### 3. Install dependencies:
 ```
 pip install colorama
-(install juga Python ≥ 3.8)
+(install juga Python ≥ 3.12)
 ```
 
 ---
