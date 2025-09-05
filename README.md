@@ -72,12 +72,12 @@ python locksmith.py
 ## Struktur File
 ```
 LOCK_SMITH/
-│
-├── LICENSE          # Lisensi
-├── README.md        # Dokumentasi
-├── locksmith.py     # Main program
-├── passwords.json   # Database akun
-└── picture.png      #Gambar Screenshot
+└── assets/
+   ├── picture.png      #Gambar Screenshot
+   ├── LICENSE          # Lisensi
+   ├── README.md        # Dokumentasi
+   ├── locksmith.py     # Main program
+   └── passwords.json   # Database akun
 ```
 
 ---
