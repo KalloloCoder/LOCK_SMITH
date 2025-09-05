@@ -92,5 +92,5 @@ Created by [KalloloCoder](https://github.com/KalloloCoder)
 
 ---
 
-## ☕ Dukung saya
+## Dukung saya
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/muhammadagt)
