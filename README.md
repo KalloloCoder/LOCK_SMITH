@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="LOCK_SMITH Logo" width="150"/>
+  <img src="assets/logo.png" alt="LOCK_SMITH Logo" width="250"/>
 </p>
 
 <p align="center">
