@@ -43,7 +43,7 @@ pip install colorama
 
 ### 1. Jalankan script utama:
 ```
-python lock.py
+python locksmith.py
 ```
 
 ### 2. Akan muncul menu:
