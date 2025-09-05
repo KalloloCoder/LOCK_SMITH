@@ -23,7 +23,7 @@ def load_data():
             try:
                 return json.load(f)
             except json.JSONDecodeError:
-                return {}  # kalau file kosong / rusak
+                return {} 
     return {}
 
 def save_data(data):
