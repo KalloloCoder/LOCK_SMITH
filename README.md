@@ -56,7 +56,7 @@ python locksmith.py
 ```
 LOCK_SMITH/
 │
-├── lock.py          # Main program
+├── locksmith.py          # Main program
 ├── passwords.json   # Database akun (akan otomatis dibuat setelah simpan akun)
 └── README.md        # Dokumentasi
 ```
