@@ -48,7 +48,7 @@ python locksmith.py
 
 ### 2. Akan muncul menu:
 
-![Tampilan CLI](locksmith.png)
+![Tampilan CLI](picture.png)
 
 ---
 
