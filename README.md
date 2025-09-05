@@ -14,8 +14,6 @@ Aplikasi ini membantu kamu menyimpan akun, mencari akun, serta membuat 100 passw
 
 - Generate 100 password kuat berdasarkan kata kunci (keyword).
 
-- CLI lebih interaktif dengan warna dan animasi loading.
-
 ---
 
 ## Instalasi
